@@ -1,3 +1,4 @@
+[![MasterHead](https://github.com/VachanaJRai/VachanaJRai/blob/main/Banner.gif)](https://rishavchanda.io)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vachanajrai&label=Profile%20views&color=0e75b6&style=flat" alt="vachanajrai" /> </p>
 <h1 align="center">Hi, I'm Vachana J Rai</h1>
 <h3 align="center">A passionate Software Developer from Bengaluru, India.</h3>
