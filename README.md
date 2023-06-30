@@ -1,8 +1,6 @@
-[![MasterHead](https://github.com/VachanaJRai/VachanaJRai/blob/main/Banner.gif)](https://rishavchanda.io)
+![Banner](https://github.com/VachanaJRai/VachanaJRai/assets/138142357/6a4e4c02-fcd9-4315-ab3e-f3fd6f0c617a)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vachanajrai&label=Profile%20views&color=0e75b6&style=flat" alt="vachanajrai" /> </p>
-<h1 align="center">Hi, I'm Vachana J Rai</h1>
-<h3 align="center">A passionate Software Developer from Bengaluru, India.</h3>
-<p> I possess a unique blend of adaptability, attention to detail, creativity, and innovation. With cultural and emotional intelligence, I thrive in diverse teams. My expertise in project management, strategic thinking, and teamwork enables me to drive successful outcomes. Ready to contribute effectively to any dynamic environment.<p>
+<p> I am a passionate Software Developer from Bengaluru, India, who possess a unique blend of adaptability, attention to detail, creativity, and innovation. With cultural and emotional intelligence, I thrive in diverse teams. My expertise in project management, strategic thinking, and teamwork enables me to drive successful outcomes. Ready to contribute effectively to any dynamic environment.<p>
 
 - I’m looking forward to work with Tech Companies.
 
