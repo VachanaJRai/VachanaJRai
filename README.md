@@ -132,7 +132,7 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vachanajrai&theme=flag-india&show_icons=true&hide_border=false&layout=compact" alt="VachanaJRai's Top Languages" /></p>
-<br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vachanajrai&theme=flag-india&show_icons=true&hide_border=false&count_private=true" alt="VachanaJRai's Stats" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vachanajrai&theme=flag-india&hide_border=false" alt="VachanaJRai's Streak" /></p>
 <hr>
