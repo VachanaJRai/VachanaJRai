@@ -8,6 +8,8 @@
   
 - All of my projects are available at https://github.com/VachanaJRai
 
+- Reach me at www.vachanajrai.com
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/vachana-j-rai-a84451281/" target="_blank">
