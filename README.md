@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/vachana-j-rai-a84451281/" target="_blank">
+  <a href="https://www.linkedin.com/in/vachanajrai" target="_blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/300px-LinkedIn_2021.svg.png" alt="LinkedIn" width="20%" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
